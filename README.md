@@ -8,8 +8,6 @@ This project showcases my work as a web developer, built with passion, precision
 Hi there! I'm **Robola152**, a young and motivated web developer with a strong focus on modern, responsive, and optimized websites.  
 I love clean code, beautiful design, and turning ideas into reality with HTML, CSS, JavaScript, and more.
 
-> 🇺🇸 I love America – just putting it out there.
-
 ## 🚀 Features
 
 - Fully responsive design (mobile-first)
